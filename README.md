@@ -1,6 +1,8 @@
 # NLP_Sentiment-Analysis-of-Reviews-in-Steam
 Analyze relationship between toxicity level of reviews and gaming time with Steam API. Built fake review detection mechanism using feature selection&amp; scaling, K-means clustering and KNN model. (This is a group project)
 
+This is a group project from a Data Mining course at University of Washington. (IMT 547 Social Media Data Mining and Analysis)
+
 ## Problem statement:
 1. As the video games are gainining popularity worldwide, especially in the context of Covid-19, gaming communities have become very active. Game reviews on distribution platforms such as Steam, GamersGate, and Discord Store is one of the main approaches for users to express their attitudes.
 2. Among these game reviews, there is problematic and toxic content which is hindering development of the gaming industries and effective communication among game players.
